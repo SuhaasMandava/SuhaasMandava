@@ -1,35 +1,35 @@
 <div align="center">
 
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suhaas+%F0%9F%91%8B;CS+Student+%7C+Web+Dev+%7C+ML" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=520&height=44&lines=Suhaas+Mandava;CS+Student+%C2%B7+Web+Dev+%C2%B7+ML" alt="Suhaas Mandava" />
 
-<br/>
-
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=flat-square&logo=vercel&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=C9D1D9" alt="LinkedIn" /></a>
 
 </div>
 
+<br/>
+
 CS student building full-stack web apps and machine learning projects.
-**[See my work →](https://YOUR-PORTFOLIO.com)**
+Most of my work lives on my [portfolio](https://YOUR-PORTFOLIO.com).
 
-### Tech
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=C9D1D9)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=C9D1D9)
+![React](https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=C9D1D9)
+![Next.js](https://img.shields.io/badge/Next.js-21262D?style=flat-square&logo=nextdotjs&logoColor=C9D1D9)
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=C9D1D9)
+![Tailwind](https://img.shields.io/badge/Tailwind-21262D?style=flat-square&logo=tailwindcss&logoColor=C9D1D9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=C9D1D9)
+![PyTorch](https://img.shields.io/badge/PyTorch-21262D?style=flat-square&logo=pytorch&logoColor=C9D1D9)
+![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=C9D1D9)
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=C9D1D9)
+
+<br/>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SuhaasMandava&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8b5cf6&icon_color=06b6d4" alt="GitHub Stats" />
-<img height="150" src="https://streak-stats.demolab.com?user=SuhaasMandava&hide_border=true&theme=tokyonight&background=00000000&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=SuhaasMandava&show_icons=true&hide=issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B949E&icon_color=C9D1D9&ring_color=C9D1D9" alt="GitHub Stats" />
+<img height="140" src="https://streak-stats.demolab.com?user=SuhaasMandava&hide_border=true&background=00000000&ring=C9D1D9&fire=E6E6E6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&stroke=30363D&excludeDaysLabel=6E7681" alt="Streak" />
 
 </div>
