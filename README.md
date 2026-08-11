@@ -5,15 +5,18 @@
 <p>
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-E6E6E6?style=flat-square&logo=vercel&logoColor=0D1117" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=C9D1D9" alt="LinkedIn" /></a>
+<a href="https://instagram.com/suhaasmandava"><img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=C9D1D9" alt="Instagram" /></a>
 </p>
 
 <p>
 CS student building full-stack web apps and machine learning projects.<br/>
-Most of my work lives on my <a href="https://YOUR-PORTFOLIO.com">portfolio</a>.
+Most of my work lives on my <a href="https://YOUR-PORTFOLIO.com">portfolio</a>.<br/>
+Currently taking AP Computer Science A.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=C9D1D9" alt="Python" />
+<img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=C9D1D9" alt="Java" />
 <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=C9D1D9" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=C9D1D9" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-21262D?style=flat-square&logo=nextdotjs&logoColor=C9D1D9" alt="Next.js" />
