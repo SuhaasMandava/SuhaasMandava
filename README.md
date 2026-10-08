@@ -29,7 +29,7 @@ Currently taking AP Computer Science A.
 </p>
 
 <p>
-<img height="150" src="https://streak-stats.demolab.com?user=SuhaasMandava&hide_border=true&background=00000000&ring=C9D1D9&fire=E6E6E6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&stroke=30363D&excludeDaysLabel=6E7681" alt="Streak" />
+<img height="150" src="https://streak-stats.demolab.com?user=SuhaasMandava&v=2&hide_border=true&background=00000000&ring=C9D1D9&fire=E6E6E6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&stroke=30363D&excludeDaysLabel=6E7681" alt="Streak" />
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaasMandava&theme=github_dark" alt="GitHub Stats" />
 </p>
 
